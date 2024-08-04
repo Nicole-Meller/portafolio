@@ -31,7 +31,7 @@ const Introduction = () =>{
                     de la tecnología, y estoy dispuesta a enfrentar cualquier desafío que se presente en el camino.
                     </p>
                     <div className="flex items-center justify-center gap-3 mb:justify-start mb:gap-10">
-                        <Link href="/projects" className="px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
+                        <Link href="/portfolio" className="px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
                             Ver proyectos
                         </Link>
                         <Link href="https://www.linkedin.com/in/nicole-meller-8860808b/" className="px-3 py-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl text-secondary border-secondary hover:shadow-xl hover:shadow-secondary/50">
